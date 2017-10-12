@@ -1,0 +1,27 @@
+h1 { color: red; } 
+
+body {
+	background: lightskyblue;
+	color: purple;
+	font-size: 18pt;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+nav a {
+	display: inline-block; 
+	border: 2px solid black;
+	background:white;
+	padding 10px;
+	margin: 20px;
+}
+
+a { color: darkend;
+	text decoration: none;}
+a:hover { color: red}
+
+.picture { float: center }
+
+
+
+
+	
