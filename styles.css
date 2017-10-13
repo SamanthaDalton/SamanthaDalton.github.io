@@ -1,8 +1,8 @@
-h1 { color: red; } 
+h1 { color: purple; } 
 
 body {
 	background: lightskyblue;
-	color: purple;
+	color: #004d00;
 	font-size: 18pt;
 	font-family: 'Droid Sans', sans-serif;
 }
